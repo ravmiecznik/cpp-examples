@@ -1,3 +1,7 @@
+/*
+    An example how to generate values in for:auto loop without allocating iterable object with defined elements.
+*/
+
 #include <iostream>
 
 using namespace std;
